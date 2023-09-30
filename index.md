@@ -1,4 +1,4 @@
-On the github portion you can find my astronomy related hardware projects.  
+On the [repository](https://www.github.com/ncleesattel) side of github you can find my astronomy related hardware projects.  
 Here I want to share some of my pictures.  
 # Solar system  
 ## Sun  
@@ -47,3 +47,5 @@ The doppler view reveals the rotational direction of the sun, due to the frequen
 ![Telescope APM](img/telescope_apm.jpg)
 ## Askar65
 ![Telescope Askar](img/telescope_solex.jpg)
+
+return to [repository](https://www.github.com/ncleesattel)  
